@@ -6,11 +6,11 @@ function square(num){
   return ans;
 }
 
-//square6 execution context
+//square6 inner execution context
 var square6 = square(n);
 console.log(square6);
 
-//square5 execution context
+//square5 inner execution context
 var square5 = square(5);
 console.log(square5);
 
