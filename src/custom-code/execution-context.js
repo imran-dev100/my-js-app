@@ -13,3 +13,4 @@ console.log(square6);
 //square5 execution context
 var square5 = square(5);
 console.log(square5);
+
