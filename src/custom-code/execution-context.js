@@ -1,6 +1,5 @@
 //Global execution context
 var n=6;
-
 function square(num){
   var ans = num * num;
   return ans;
